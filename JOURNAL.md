@@ -10,9 +10,15 @@ This is my journal of the design and building process of **Calculator**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/25).
 
 
-## 10/2/2025 - Completed half of the schematic  
+## 10/2/2025 10 AM - Completed half of the schematic  
 
 I spent 4 hours yesterday working on the schematic. At first I was gonna use a xiao rp 2040, so I would have to do a matrix layout, but I then decided to go for the raspberry pi pico which has many gpios. I connected all keys and an LCD screen. I used a technique called **i2c** which a friend told me about. This way, I only had to connect 2 gpios. (4 hours may seem a lot, but it is my second PCB and I remade it 2-3 times because I tried to actually understand everything. I also have to switch to labels soon)
 ![Screenshot 2025-10-02 133847.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTUsInB1ciI6ImJsb2JfaWQifX0=--29842ac15e971ea3dc437d2333a1ca81c8433c4b/Screenshot%202025-10-02%20133847.png)
+  
+
+## 10/2/2025 8 PM - Designed a demo PCB  
+
+Did some brainstorimg on the PCB. I imported everything from the schematic - I had to spend some time searching for footprints. After that I was gonna use the Keyboard Layout Editor (KLE) but I just hand-placed the keys for now since I plan this to be bare. I love slowly seeing it come to life! I also spent some time on sketch.io designing the overall look. I will probably have to change everything, switches aren't alined, routing isn't done, and outline is wrong.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI1LCJwdXIiOiJibG9iX2lkIn19--8b335ff6180af3bc6b6b5a9a89b0102ecab002e6/image.png)
   
 
