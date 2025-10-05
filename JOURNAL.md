@@ -27,11 +27,18 @@ Did some brainstorimg on the PCB. I imported everything from the schematic - I h
 Today I had ancient-greek class, which I don't care about since imma follow a path with math & cs, so I spent the majority of the time drawing out the design of my calculator. I changed the placement of the button multiple times but the end result is this and I think its pretty cool! it fits everything and takes up the correct space. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5LCJwdXIiOiJibG9iX2lkIn19--edd646efbefe3d2e537fcd84bd2209c8ac320bf7/image.png)
   
 
-## 10/5/2025 - Setup Edge.cuts layer  
+## 10/5/2025 4 PM - Setup Edge.cuts layer  
 
 Today I setup the Edge.cuts layer. I drew a rectangle and used the measure tool, and made sure the usb from the raspberry pi pico is outside of the pcb. I also changed the position of the screen, keys, and rotary encoder to make sure everything is as it should!
 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTc4LCJwdXIiOiJibG9iX2lkIn19--0e641e5fe39d20005530fee2c4101b222adb1b51/image.png)
+  
+
+## 10/5/2025 6 PM - final GPIOs + 3d view!  
+
+I spent around 2.5 hours setting up the power gpios + 3d view! People in a slack thread helped me set up the gpios, 3v3, GND configurations for the open gpios on the pico, and I close the unused ones! I also did the same on the LCD. I spent some more time researching the manufacturer's website for the lcd, and I also digged the internet to find .step files for every component!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjEwLCJwdXIiOiJibG9iX2lkIn19--96cee31802161208eab8582391e8dac403a7d69f/image.png)
   
 
