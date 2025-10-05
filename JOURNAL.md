@@ -27,3 +27,11 @@ Did some brainstorimg on the PCB. I imported everything from the schematic - I h
 Today I had ancient-greek class, which I don't care about since imma follow a path with math & cs, so I spent the majority of the time drawing out the design of my calculator. I changed the placement of the button multiple times but the end result is this and I think its pretty cool! it fits everything and takes up the correct space. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5LCJwdXIiOiJibG9iX2lkIn19--edd646efbefe3d2e537fcd84bd2209c8ac320bf7/image.png)
   
 
+## 10/5/2025 - Setup Edge.cuts layer  
+
+Today I setup the Edge.cuts layer. I drew a rectangle and used the measure tool, and made sure the usb from the raspberry pi pico is outside of the pcb. I also changed the position of the screen, keys, and rotary encoder to make sure everything is as it should!
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTc4LCJwdXIiOiJibG9iX2lkIn19--0e641e5fe39d20005530fee2c4101b222adb1b51/image.png)
+  
+
