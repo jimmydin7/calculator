@@ -42,8 +42,15 @@ I spent around 2.5 hours setting up the power gpios + 3d view! People in a slack
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjEwLCJwdXIiOiJibG9iX2lkIn19--96cee31802161208eab8582391e8dac403a7d69f/image.png)
   
 
-## 10/6/2025 - Tried to Route the PCB  
+## 10/6/2025 5:06 PM - Tried to Route the PCB  
 
 Tried routing the PCB, but I kinda messed up and wasted 1 hour... At least I learned something! I learned that I can route both on the back and front side. Im getting some weird routing suggestions and I will probably ask someone for help, because I can't finish the routing.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Nzc5LCJwdXIiOiJibG9iX2lkIn19--c8ac4e9bdac3b1aea509221c596707a95082b0d1/image.png)
+  
+
+## 10/6/2025 5:50 PM - Routing attemp v2  
+
+i removed all the routing from before and tried again. I did the complex stuff on the back side, but still, I can't finish it because routes keep running into each other. I will have to make a 3d attempt, probably equally split the amount of routing on the front and back!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzkwLCJwdXIiOiJibG9iX2lkIn19--1af3d422efeb62d5d4e76557c1f4a020666db560/image.png)
   
 
